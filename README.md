@@ -21,7 +21,7 @@
 <br/>  
 
 
-## 🌐 My Skill Set  
+## 🌐 My Skills 
 <table><tr><td valign="top" width="33%">
 
 
@@ -56,7 +56,7 @@
 
 
 
-### DevOps  
+### Design  
 <div align="center">  
 <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobe_illustrator-icon.svg" alt="Illustrator" height="50" /></a>  
 <a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" /></a>  
@@ -109,9 +109,9 @@
 
 ## 💻 Recent Blog Posts  
 <!-- BLOG-POST-LIST:START -->  
-- [Portfolio](www.dylanjacquet.com)
-- [Clinicoeurs](www.clinicoeursdelasalm.dylanjacquet.com)
-- [CV - Dylan Jacquet](www.cv.dylanjacquet.com)
+- [Portfolio](https://www.dylanjacquet.com)
+- [Clinicoeurs](https://www.clinicoeursdelasalm.dylanjacquet.com)
+- [CV - Dylan Jacquet](https://www.cv.dylanjacquet.com)
 <!-- BLOG-POST-LIST:END -->  
 
 <br/>  
