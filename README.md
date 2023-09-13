@@ -6,7 +6,7 @@
 
   
 
-- 🔭 I’m student in Computer Graphic Design at the Technical College of Liege  
+- 🔭 I’m a student in Computer Graphic Design at the Technical College of Liege  
   
 
 - 🌱 I’m currently learning Laravel and Flutter  
