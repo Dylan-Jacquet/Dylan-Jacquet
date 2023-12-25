@@ -100,7 +100,7 @@
 <!-- BLOG-POST-LIST:START -->  
 - [Portfolio](https://www.dylanjacquet.com)
 - [Clinicoeurs](https://www.clinicoeursdelasalm.be)
-- [CV - Dylan Jacquet](https://www.cv.dylanjacquet.com)
+- [CV - Dylan Jacquet](https://cv.dylanjacquet.com)
 <!-- BLOG-POST-LIST:END -->  
 
 <br/>  
