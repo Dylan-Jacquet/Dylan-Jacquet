@@ -60,25 +60,25 @@
 
 ## 📞 Get in touch with me  
 <div align="center">
-<a href="https://github.com/https://github.com/Dylan-Jacquet" target="_blank">
+<a href="https://github.com/Dylan-Jacquet" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-<a href="https://twitter.com/https://twitter.com/ZyrtMan" target="_blank">
+<a href="https://twitter.com/ZyrtMan" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/dylan-jacquet" target="_blank">
+<a href="https://linkedin.com/in/dylan-jacquet" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
-<a href="https://instagram.com/https://www.instagram.com/dylan_jacquet234/" target="_blank">
+<a href="https://instagram.com/dylan_jacquet234/" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>
-<a href="https://www.youtube.com/user/https://www.youtube.com/c/ZyrtMan" target="_blank">
+<a href="https://www.youtube.com/c/ZyrtMan" target="_blank">
 <img src=https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin-bottom: 5px;" />
 </a>
-<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/20256966/dylan-jacquet?tab=profile" target="_blank">
+<a href="https://stackoverflow.com/users/20256966/dylan-jacquet?tab=profile" target="_blank">
 <img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" />
 </a>
-<a href="https://www.behance.net/https://www.behance.net/dylanjacquet" target="_blank">
+<a href="https://www.behance.net/dylanjacquet" target="_blank">
 <img src=https://img.shields.io/badge/behance-%23191919.svg?&style=for-the-badge&logo=behance&logoColor=white alt=behance style="margin-bottom: 5px;" />
 </a>  
 </div>  
