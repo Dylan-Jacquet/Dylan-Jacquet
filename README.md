@@ -2,14 +2,11 @@
   
 <br/>
   
-## <div align="center" style="padding: 1rem 0;">💫 I'm Dylan, a future Full-Stack Web Developer 👨‍💻 <br/> Who's actively working to be the best 🚀</div>  
+## <div align="center" style="padding: 1rem 0;">💫 I'm Dylan, a Full-Stack Web Developer 👨‍💻 <br/> Who's actively working to be the best 🚀</div>  
 
   
 
-- 🔭 I’m a student in Computer Graphic Design at the Technical College of Liege  
-  
-
-- 🌱 I’m currently learning Laravel and Flutter  
+- 🔭 My coding time [![wakatime](https://wakatime.com/badge/user/381f5d8d-f8be-43da-a210-8fddc6fa666b.svg)](https://wakatime.com/@381f5d8d-f8be-43da-a210-8fddc6fa666b)
   
 
 - ❓ Ask me questions about anything related to a future project with me or an opportunity for me  
