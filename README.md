@@ -2,7 +2,7 @@
   
 <br/>
   
-## <div align="center" style="padding: 1rem 0;">💫 I'm Dylan, a Full-Stack Web Developer 👨‍💻 <br/> Who's actively working to be the best 🚀</div>  
+## <div style="padding: 1rem 0;">💫 I'm Dylan, a Full-Stack Web Developer 👨‍💻 <br/></div>  
 
   
 
@@ -91,17 +91,6 @@
 
 </div>
 <br/>  
-
-
-## 💻 Recent Blog Posts  
-<!-- BLOG-POST-LIST:START -->  
-- [Portfolio](https://www.dylanjacquet.com)
-- [Clinicoeurs](https://www.clinicoeursdelasalm.be)
-- [CV - Dylan Jacquet](https://cv.dylanjacquet.com)
-<!-- BLOG-POST-LIST:END -->  
-
-<br/>  
-
 
 
 ## 🏆 GitHub Trophies
